@@ -125,7 +125,7 @@
 </header>
 
 <nav>
-    <a href="#about">About</a>
+    <a href="#about">About me</a>
     <a href="#education">Education</a>
     <a href="#research">Research</a>
     <a href="#leadership">Leadership</a>
